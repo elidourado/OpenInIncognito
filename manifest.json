@@ -26,6 +26,6 @@
     "default_title": "Open In Incognito"
   },
   "permissions": [
-      "tabs"
+      "tabs", "contextMenus"
   ]
 }
